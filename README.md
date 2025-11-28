@@ -1,4 +1,4 @@
-# Writing-a-HashTable
+# Craft a Hash Table from scratch
 
 **Where data finds its bucket.**
 
