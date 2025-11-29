@@ -1,6 +1,6 @@
 # Design a HashTable from Scratch
 
-OpenAddressHashTable is a small, fast, and predictable C library implementing a hash table with **open addressing**. No pointer forests, no abstraction fog—just direct, transparent data layout and collision handling you can actually reason about.
+HashTable is a small, fast, and predictable C library implementing a hash table with **open addressing**. No pointer forests, no abstraction fog—just direct, transparent data layout and collision handling you can actually reason about.
 
 This library exists for engineers who want to see the machinery, not hide from it. Probing, collisions, resizing…it’s all right there, exactly where it should be. Clean structure, clean speed.
 
